@@ -1,0 +1,22 @@
+theme: minima
+
+minima: 
+  skin: solarized
+
+header_pages:
+  - links.md
+  # - açores.md  
+  - blog.md
+  - atualidade.md
+  
+plugins:
+  - jekyll-feed
+author:
+  name : "Francisco Mesquita"
+  email: "f [at] mesquita {dot} xyz"
+title: Mesquita
+description: "Repository of misc."
+collections:
+  shorts:
+  posts:
+    permalink: /:title
