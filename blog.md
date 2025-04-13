@@ -3,7 +3,7 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-{% assign drafts = site.posts | where: "draft", true | where: "show_wip", true | sort: "date" | reverse %}
+{% assign drafts = site.posts | where: "draft", true | where: "show_draft", true | sort: "date" | reverse %}
 {% if  drafts.size > 0 %}
 
 ## Esboços (comentários bem-vindos):
