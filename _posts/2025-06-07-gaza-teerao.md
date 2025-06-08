@@ -25,4 +25,4 @@ Do mesmo modo que temos acesso a fotos e vídeos da catástrofe em Gaza, os pale
 
 Aproximemo-nos da realidade de Gaza — e tomemos parte. Mesmo estando longe, as nossas ações são consequentes. Pergunto diretamente a Paulo Moniz e a Paulo Nascimento Cabral, que escrevem para este jornal: qual a justificação para o PSD não reconhecer, imediatamente, o Estado da Palestina?
 
-Pergunto a Pedro Nascimento Cabral se, desde a sua audiência com o embaixador sionista em julho passado, já teve oportunidade de mudar de posição relativamente à ["cooperação entre Israel e Ponta Delgada"](https://www.cm-pontadelgada.pt/pages/541?news_id=5022). Não seria muito mais benéfico anunciar a intenção de germanar o nosso município com o de Khan Younis, onde a fome é indescritível?
+Pergunto a Pedro Nascimento Cabral se, desde a sua audiência com o embaixador sionista em julho passado, já teve oportunidade de mudar de posição relativamente à ["cooperação entre Israel e Ponta Delgada"](https://www.cm-pontadelgada.pt/pages/541?news_id=5022). E que tal anunciar a intenção de fazer de Khan Younis, cidade no sul de Gaza onde a fome é indescritível, cidade-irmã?
