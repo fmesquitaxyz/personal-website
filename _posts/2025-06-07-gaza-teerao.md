@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Entre São Miguel e o Irão"
-date: 2025-06-07
-draft: true
-show_draft: true
+date: 2025-06-12
+ao: true
 colorlinks: blue
 ---
 
