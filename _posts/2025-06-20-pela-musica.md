@@ -14,7 +14,7 @@ Esta metáfora aplica-se à política e, em particular, às miseráveis lideran�
 
 O genocídio que Israel leva a cabo em Gaza ilustra bem esta dinâmica. No início deste mês, era notória uma ligeira pressão europeia sobre o governo israelita. Este tentou dissipá-la ao começar uma guerra com o Irão. Foi recompensado: Macron adiou indefinidamente a conferência sobre a solução dos dois Estados (que estava marcada para 17-20 de junho) e Von der Leyen, presidente da Comissão Europeia, reiterou, num *tweet* delirante, o "direito que Israel tem em defender-se", enquanto as suas forças militares prosseguem com a matança, todos os dias, de dezenas de palestinianos na proximidade dos pontos de suposta distribuição de ajuda humanitária.
 
-Também por cá, não nos faltam homens em posições de liderança absolutamente incapazes, na sua cobardia, de insurreição face ao *status quo* da lei da selva e de absoluto desrespeito pelos direitos humanos. De Montenegro a Rangel, passando por Bolieiro e Luís Garcia e chegando a Nascimento Cabral: ei-los os *yes-men*, que preferem a segurança míope do silêncio à coragem da dissidência. Pudim, pudim, pudim — até à náusea.
+Também por cá, não nos faltam homens em posições de liderança absolutamente incapazes, na sua cobardia, de insurreição face ao *status quo* de absoluto desrespeito pelos direitos humanos. De Montenegro a Rangel, passando por Bolieiro e Luís Garcia e chegando a Nascimento Cabral: ei-los os *yes-men*, que preferem a segurança míope do silêncio à coragem da dissidência. Pudim, pudim, pudim — até à náusea.
 
 ## Arroz doce
 
