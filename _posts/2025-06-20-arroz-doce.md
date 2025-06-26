@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Falta arroz doce!"
-date: 2025-06-20
-draft: true
-show_draft: true
+date: 2025-06-26
+ao: true
 colorlinks: blue
 ---
 No final da faixa "Pela Música Pt2", do álbum Serviço Público, Sam the Kid faz um apelo: "Não tragam pudim, o pudim já está na mesa. Tragam arroz doce, falta arroz doce!". Nesta música, é feita uma crítica feroz à indústria musical instalada, movida por interesses financeiros — o "pudim" —, e alimentada a esperança numa alternativa emancipatória: o arroz doce.
 
-Esta metáfora aplica-se à política e, em particular, às miseráveis lideranças dos vários países que têm estado na ordem do dia: começando pela de Netanyahu, passando pelas de Putin e Trump, pelas lideranças do Hamas e do Irão, chegando às de Macron e Von der Leyen. Apesar do muito que as distingue, partilham um denominador comum: governam em função de interesses pessoais ou financeiros, não do bem comum. De nenhuma espero mudança genuína.
+Esta metáfora aplica-se à política e, em particular, às miseráveis lideranças que têm estado na ordem do dia: começando pela de Netanyahu, passando pelas de Putin e Trump, pelas lideranças do Hamas e do Irão, chegando às de Von der Leyen e da [NATO](https://www.aljazeera.com/news/2025/6/24/trump-shares-texts-from-nato-chief-praising-decisive-action-on-iran). Apesar do muito que as distingue, partilham um denominador comum: governam em função de interesses pessoais ou financeiros, não do bem comum. De nenhuma espero mudança genuína.
 
 O genocídio que Israel leva a cabo em Gaza ilustra bem esta dinâmica. No início deste mês, era notória uma ligeira pressão europeia sobre o governo israelita. Este tentou dissipá-la ao começar uma guerra com o Irão. Foi recompensado: [Macron adiou indefinidamente a conferência sobre a solução dos dois Estados (que estava marcada para 17-20 de junho)](https://apnews.com/article/israel-palestinians-two-state-conference-un-france-50d54d68040ea58dc6f533e33df3d0cd) e Von der Leyen, presidente da Comissão Europeia, reiterou, [num *tweet* delirante, o "direito que Israel tem de se defender"](https://x.com/vonderleyen/status/1933644013430845633), enquanto as forças de ocupação prosseguem com a matança, [dia após dia](https://www.theguardian.com/world/2025/jun/16/gaza-food-centre-shooting-israel-ghf), de [dezenas de palestinianos](https://www.theguardian.com/world/2025/jun/18/israeli-forces-kill-injure-palestinians-food-trucks-gaza-officials) na [proximidade dos pontos de (*suposta*) distribuição](https://www.theguardian.com/world/2025/jun/03/palestinians-killed-israeli-fire-aid-point-gaza-officials-say) de ajuda humanitária.
 
@@ -18,6 +17,6 @@ A necessidade de mudança é evidente, mas faltam-nos redes organizadas de cidad
 
 Nesse sentido, saúdo as candidaturas de rotura que concorrem às autarquias e freguesias com o intuito de envolver, tanto quanto possível, a sociedade civil. Conto que façam campanhas de proximidade, ouvindo as pessoas — em particular, quem tende a abster-se; e espero que se batam pela implementação de assembleias cidadãs. Há muito trabalho pela frente, mas valerá a pena.
 
-Numa época de retrocessos, ajuda olhar para os bons exemplos que nos chegam de outras partes do globo. De França, temos a eurodeputada [Rima Hassan](https://www.esquerda.net/artigo/isolamento-e-ameacas-de-morte-eurodeputada-relata-condicoes-da-detencao-em-israel/95270), que arriscou a sua segurança ao embarcar no veleiro Madleen com o objetivo de levar ajuda humanitária a — ou, pelo menos, de chamar atenção para — Gaza. [De Nova Iorque, temos a mobilização de mais de 25 mil voluntários para a campanha de Zohran Mamdani à câmara municipal](https://jacobin.com/2025/06/zohran-mamdani-canvassing-nyc-mayor). À escala dos Açores, seriam mais de 700 voluntários. Ainda não temos uma rede destas, mas lá chegaremos, com vontade coletiva.
+Numa época de retrocessos, ajuda olhar para os bons exemplos que nos chegam de outras partes do globo. De França, temos a eurodeputada [Rima Hassan](https://www.esquerda.net/artigo/isolamento-e-ameacas-de-morte-eurodeputada-relata-condicoes-da-detencao-em-israel/95270), que arriscou a sua segurança ao embarcar no veleiro Madleen com o objetivo de levar ajuda humanitária a — ou, pelo menos, de chamar atenção para — Gaza. De Nova Iorque, temos [a mobilização de mais de 25 mil voluntários](https://jacobin.com/2025/06/zohran-mamdani-canvassing-nyc-mayor) para a [campanha (em curso) de Zohran Mamdani à câmara municipal](https://www.theguardian.com/us-news/2025/jun/24/new-york-mayoral-primary-results). À escala dos Açores, seriam mais de 700 voluntários. Ainda não temos uma rede destas, mas lá chegaremos, com vontade coletiva.
 
 Falta o arroz doce, mas os ingredientes e as receitas estão aí. Metamos mãos à obra, porque de pudim, francamente, já chega.
