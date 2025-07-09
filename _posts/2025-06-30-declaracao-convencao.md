@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "–"
-date: 2025-06-30
-draft: true
+title: "Declaração IX convenção BE Açores"
+date: 2025-07-05
 colorlinks: blue
 ---
 
