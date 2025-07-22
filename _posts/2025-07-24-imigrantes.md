@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "A lucidez de Friedman"
+title: "Que a lucidez de Friedman nos alumie"
 date: 2025-07-22
 draft: true
+show_draft: true
 colorlinks: blue
 ---
 
