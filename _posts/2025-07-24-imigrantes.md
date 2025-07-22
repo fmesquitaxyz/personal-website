@@ -7,9 +7,9 @@ show_draft: true
 colorlinks: blue
 ---
 
-Na semana passada, estive na Graciosa. Os meus avós, que vivem lá, queixam-se da falta de gente na ilha — em particular, gente jovem. Uma realidade que é comum a várias das nossas ilhas mais pequenas.
+Na semana passada, enquanto estive na Graciosa, ouvi os meus avós, que vivem lá, queixarem-se da falta de gente na ilha — em particular, gente jovem. Uma realidade que é comum a várias das nossas ilhas mais pequenas.
 
-Enquanto lá estive, interagi com cerca de duas centenas de desconhecidos, com o objetivo de organizar uma conversa política no centro da vila. Os estrangeiros com quem me cruzei eram, na sua grande maioria, turistas. Para além desses, falei com um casal italiano que tem lá o seu pequeno negócio e um trabalhador canadiano de ascendência açoriana.
+Nesses dias, interagi com cerca de duas centenas de desconhecidos, com o objetivo de organizar uma conversa política no centro da vila. Os estrangeiros com quem me cruzei eram, na sua grande maioria, turistas. Para além desses, falei com um casal italiano que tem lá o seu pequeno negócio e um trabalhador canadiano de ascendência açoriana.
 Nessas interações, o tema mais frequentemente puxado pelos meus interlocutores foi o da imigração. Nessa ilha com um histórico de muita emigração, muitas pessoas pareceram-me preocupadas — quando não mesmo revoltadas — com a chegada a Portugal de trabalhadores da Índia, do Bangladesh, do Nepal, _et cetera_.
 
 Na Graciosa, as pessoas não sofrem de desconforto por terem vizinhos novos com costumes diferentes — nem os têm. O que as incomoda é o aspeto financeiro de estarem a pagar impostos para, alegadamente, sustentar esse pessoal que só lhes aparece através de ecrãs, a quem tudo é entregue de mão beijada. Disseram-me: "a pensão da minha mãe teve cortes enormes com a _troika_, e vêm esses gajos e andamos a dar-lhes milhares, sem sequer trabalharem" e "o meu problema não são os imigrantes legais; agora esses subsídios todos aos ilegais é que não pode ser!". Quanto à logística de entregar subsídios a quem o Estado ignora estar por cá, deixo à imaginação de cada um.
