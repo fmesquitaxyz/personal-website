@@ -15,7 +15,7 @@ Nas nossas ilhas, não sentimos desconforto por ter vizinhos novos com costumes 
 
 Temos, evidentemente, um problema grave relacionado com a imigração. Desengane-se quem acha que esta desinformação e estes mitos sobre os migrantes se devem ao acaso ou à estupidez. Estas fábulas dão um jeitão aos muito poucos que têm muito dinheiro e poder — e que fazem por as disseminar.
 
-Vídeos de imigrantes (ou romani) ricos e malandros, cheios de notas e carros bons, ao instigar um sentimento anti-imigração, servem um duplo propósito. O primeiro é permitir levar a cabo políticas chamadas de "anti-imigração", mas que mais não fazem que dificultar a regularização das pessoas, substituindo uma força laboral de imigrantes legais por imigrantes ilegais.
+Vídeos de imigrantes (ou romani) ricos e malandros, cheios de notas e carros bons, servem um duplo propósito. O primeiro é permitir levar a cabo políticas chamadas de "anti-imigração", mas que mais não fazem do que dificultar a regularização das pessoas, substituindo uma força laboral de imigrantes legais por imigrantes ilegais.
 
 Conforme explicou lucidamente Milton Friedman — Nobel da Economia adorado por muitos liberais —, do ponto de vista dos empregadores, os imigrantes querem-se ilegais: "aceitam empregos que a maioria dos residentes deste país não está disposta a aceitar, fornecendo-lhes um tipo de mão de obra que eles não conseguem obter de outra maneira". Podem ser pagos abaixo do salário mínimo, e sem necessidade de descontos para a Segurança Social. Por sair mais barata aos donos do capital, a mão de obra ilegal cria sérios problemas aos restantes trabalhadores, que são preteridos, e grandes benesses aos patrões. Será de estranhar que a elite portuguesa financie o CH?
 
