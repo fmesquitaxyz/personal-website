@@ -21,6 +21,4 @@ No entanto, não é isso que tem acontecido. Foram transferidos, por esta via, �
 
 Sendo a EDA detida em 40% pelo Grupo Bensaúde (GB), a falha no desenho deste subsídio levou a República lhe transferisse, por via de subsídios superiores a €700M, mais de €60M para os seus bolsos. Para além disto, a BENCOM (detida em 100% pelo GB) vende, em exclusividade, fuelóleo à EDA a preços absurdos: entre 2010 e 2021, a EDA pagou €22M acima do preço considerado razoável pela ERSE; e, num sábado em setembro passado, assinou um contrato de ajuste direto de €50M, para o fornecimento de fuelóleo durante 9 meses, sendo o preço estipulado €5M acima daquele que o regulador considera justo.
 
-Numa altura em que tanto se fala da revisão da lei das finanças regionais, muito devido aos défices colossais que o governo de Bolieiro vem acumulando, eis aqui uma moeda de troca para a negociação com a República: poupem nas transferências por via da compensação tarifária, já que grande parte acaba nos bolsos do Grupo Bensaúde.
-
-Chega desta subsídio-dependência.
+Numa altura em que tanto se fala da revisão da lei das finanças regionais, muito devido aos défices colossais que o governo de Bolieiro vem acumulando, eis aqui uma moeda de troca para a negociação com a República: poupem nas transferências por via da compensação tarifária, já que grande parte acaba nos bolsos do Grupo Bensaúde. Antes reduzir o défice que bancar esta subsídio-dependência.
