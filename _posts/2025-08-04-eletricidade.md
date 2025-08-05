@@ -19,10 +19,10 @@ Para além deste aspeto, a produção de eletricidade é necessariamente condici
 
 A eletricidade só não sai muito mais cara aos açorianos devido à existência de um mecanismo, imposto pela ERSE, de compensação tarifária. Este subsídio serve, em princípio, para que a EDA seja uma empresa viável, enquanto pratica preços que são comparáveis aos do resto do território nacional.
 
-Mas a compensação tarifária tem ido muito além disso: nos últimos dez anos (2015-2024), permitiu que a EDA acumulasse mais de €150M em lucros, num período em que lhe foram transferidos mais de €700M por esta via. Recentemente, a República transferiu para a EDA €115M em 2022, €101M em 2023 e €111M em 2024 — valores que representam cerca de 40% do volume de vendas do Grupo EDA.
+Mas a compensação tarifária tem ido muito além disso: nos últimos dez anos (2015-2024), permitiu que a EDA acumulasse mais de €150M em lucros, num período em que lhe foram transferidos mais de €700M por esta via. A República transferiu para a EDA €115M em 2022, €101M em 2023 e €111M em 2024 — valores que representam cerca de 40% do volume de vendas do Grupo EDA.
 
 Fosse a EDA pública, era tirar o dinheiro do bolso republicano e pô-lo no bolso autonómico. Não é: o GB detém 40% e a EDP detém 10%. Isto significa que €60M dos lucros da EDA foram diretamente para o GB e €15M para a EDP — dinheiro público que deveria ter sido investido na educação ou na saúde.
 
-Assim, temos o Estado a subsidiar os lucros absurdos da BENCOM — porque só com a compensação tarifária pode a EDA comprar-lhes o combustível a preços tão altos — e, ainda, os da EDA. O GB ganha duas vezes; o erário público perde duas; e a confiança nos políticos diminui. Chega de bancar esta subsídio-dependência.
+Assim, temos o Estado a subsidiar os lucros absurdos da BENCOM — porque só com a compensação tarifária pode a EDA comprar-lhes o combustível a preços tão altos — e, ainda, os da EDA. O GB ganha duas vezes; o erário público perde duas; e a boa-fé dos contribuintes diminui.
 
 Com a discussão da revisão da lei das finanças regionais em curso, agravada pelos enormes défices do governo Bolieiro, aqui está uma moeda de troca para a negociação com a República: reduzam as transferências da compensação tarifária, já que grande parte é desviada.
