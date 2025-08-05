@@ -25,4 +25,4 @@ Fosse a EDA pública, era tirar o dinheiro do bolso republicano e pô-lo no bols
 
 Assim, temos o Estado a subsidiar os lucros absurdos da BENCOM — porque só com a compensação tarifária pode a EDA comprar-lhes o combustível a preços tão altos — e, ainda, os da EDA. O GB ganha duas vezes; o erário público perde duas; e a confiança nos políticos diminui. Chega de bancar esta subsídio-dependência.
 
-Com a discussão da revisão da lei das finanças regionais em curso, motivada pelos enormes défices do governo Bolieiro, aqui está uma moeda de troca para a negociação com a República: reduzam as transferências da compensação tarifária, já que grande parte vai para bolsos privados. 
+Com a discussão da revisão da lei das finanças regionais em curso, agravada pelos enormes défices do governo Bolieiro, aqui está uma moeda de troca para a negociação com a República: reduzam as transferências da compensação tarifária, já que grande parte é desviada.
