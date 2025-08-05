@@ -13,7 +13,7 @@ Pelos Açores, a situação é muito pior, com a EDA a reportar que, entre janei
 
 A maior parte da nossa eletricidade é gerada queimando combustíveis fósseis, principalmente o fuelóleo. Para além dos graves problemas ambientais causados, o abastecimento do fuelóleo é altamente problemático. Isto porque a BENCOM (detida em 100% pelo Grupo Bensaúde, que também tem 40% da EDA) o vende em exclusividade e a preços inflacionados. Entre 2010 e 2021, a EDA pagou €22M acima do preço aceite pela Entidade Reguladora dos Serviços Energéticos (ERSE), como demonstrado pela resposta que esta deu ao Requerimento 10-EI/XV/1. Mais: em setembro passado, num sábado, assinou um contrato de €50M para 9 meses de fornecimento, com um preço €5M acima do que o regulador considera justo.
 
-Sendo a EDA maioritariamente pública (50,1%), a produção de eletricidade é, em grande parte, determinada pela vontade política. É pena que esta continue a faltar no que toca a enfrentar os interesses do GP.
+Sendo a EDA maioritariamente pública (50,1%), a produção de eletricidade é, em grande parte, determinada pela vontade política. É pena que esta continue a faltar no que toca a enfrentar os interesses do GB.
 
 Para além deste aspeto, a produção de eletricidade é necessariamente condicionada pela geografia. Utilizando o mesmo combustível, a produção de eletricidade será mais custosa no Corvo do que em São Jorge, por uma questão de escala. Sendo a eletricidade um bem essencial, decidiu-se que estas diferenças de custos na produção não deveriam ser refletidas nos custos imputados aos consumidores — o mesmo preçário da EDA vigora para toda a Região, com preços mais baixos do que os que seriam verificados num mercado livre.
 
