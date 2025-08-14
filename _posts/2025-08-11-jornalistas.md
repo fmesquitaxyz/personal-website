@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Mártires, proximidade e cooperação"
-date: 2025-08-13
-draft: true
-show_draft: true
+date: 2025-08-14
+ao: true
 colorlinks: blue
 ---
 
