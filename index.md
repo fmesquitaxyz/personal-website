@@ -3,8 +3,11 @@ layout: default
 ---
 # Hi, welcome and thanks for your time
 
-## Gaza
+## Palestine
+
 [This investigation by Al Jazeera](https://www.aljazeera.com/program/investigations/2024/10/7/war-crimes-in-gaza-i-al-jazeera-investigations) of what is going on in Gaza is a extremely hard to watch and extraordinarily important. Please watch it only when you feel like you can handle it.
+
+The three part series [Along the Green Line](https://www.youtube.com/playlist?list=PLa_1MA_DEorGnakB7QV1Q_LBpHgtGQDxi), Matthew Cassel (The Guardian) travels along the 1949 Armistice border, or ‘Green Line’ and meets Palestinians and Israelis living just kilometres apart.
 
 ## Latest from [Blog](/blog)
 
@@ -58,8 +61,8 @@ As for me, i'm a member of [giving what we can](https://www.givingwhatwecan.org/
 
 I regularly support [Give Directly](https://www.givedirectly.org/):
 
-  * (i'm an ambassador for GD. This simply means i should be able to answer questions you may have about it.)
-  * ([GD's finances](https://www.givedirectly.org/financials/); [Quarterly Journal of Economics, 2016](https://haushofer.ne.su.se/publications/Haushofer_Shapiro_UCT_QJE_2016.pdf))
+* (i'm an ambassador for GD. This simply means i should be able to answer questions you may have about it.)
+* ([GD's finances](https://www.givedirectly.org/financials/); [Quarterly Journal of Economics, 2016](https://haushofer.ne.su.se/publications/Haushofer_Shapiro_UCT_QJE_2016.pdf))
 
 These are other great charities that i've supported on occasion:
 
@@ -87,7 +90,6 @@ I was born and raised in the Azores, and now live happily in exile in Lisbon. I 
 I complain a lot. That does not mean i do not appreciate how extraordinarily lucky i have been so far. I can only hope it keeps that way.
 
 Feel free to drop me an email at f at mesquita dot xyz. Or get creative: anything at mesquita dot xyz gets through to me.
-
 
 ## Have a great day
 
