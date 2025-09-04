@@ -7,7 +7,7 @@ layout: default
 
 [This investigation by Al Jazeera](https://www.aljazeera.com/program/investigations/2024/10/7/war-crimes-in-gaza-i-al-jazeera-investigations) of what is going on in Gaza is a extremely hard to watch and extraordinarily important. Please watch it only when you feel like you can handle it.
 
-The three part series [Along the Green Line](https://www.youtube.com/playlist?list=PLa_1MA_DEorGnakB7QV1Q_LBpHgtGQDxi), Matthew Cassel (The Guardian) travels along the 1949 Armistice border, or ‘Green Line’ and meets Palestinians and Israelis living just kilometres apart.
+In the three episodes of [Along the Green Line](https://www.youtube.com/playlist?list=PLa_1MA_DEorGnakB7QV1Q_LBpHgtGQDxi), Matthew Cassel (The Guardian) travels along the 1949 Armistice border, or ‘Green Line’ and meets Palestinians and Israelis living just kilometres apart.
 
 ## Latest from [Blog](/blog)
 
