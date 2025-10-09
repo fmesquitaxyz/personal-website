@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Organizemo-nos"
-date: 2025-10-09
+date: 2025-10-08
 draft: true
 show_draft: true
 colorlinks: blue
