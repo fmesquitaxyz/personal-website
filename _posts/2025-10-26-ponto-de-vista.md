@@ -23,7 +23,7 @@ Em Portugal, não temos impostos sobre o património, salvo o IMI, que ignora a 
 
 Nos Açores — onde cresci sem me faltar nada —, as desigualdades são extremas. A nossa região é a mais desigual de Portugal ([tanto segundo o índice de Gini como o rácio S80/20](https://açores.net/desigualdade/2023/12/10/desigualdade.html)) e [apresenta taxas de pobreza e exclusão social comparáveis às da Roménia e da Bulgária](https://açores.net/pobreza/2023/12/12/pobreza.html).
 
-Em 2023, passei a militar no Bloco de Esquerda por ser o único partido presente no parlamento regional que encara a tensão entre o trabalho e o capital e faz da redistribuição uma prioridade. É um espaço plural, de debate e solidariedade. É um veículo para que as nossas ideias possam ir a votos e tem sido, pela dedicação dos meus camaradas às causas que nos movem, uma fonte de inspiração.
+Era-me evidente a necessidade de me tornar mais politicamente ativo. Em 2023, passei a militar no Bloco de Esquerda por ser o único partido presente no parlamento regional que encara a tensão entre o trabalho e o capital e faz da redistribuição uma prioridade. É um espaço plural, de debate e solidariedade. É um veículo para que as nossas ideias possam ir a votos e tem sido, pela dedicação dos meus camaradas às causas que nos movem, uma fonte de inspiração.
 
 Depois de um ano e 28 textos nestas páginas, fica aqui a resposta pública à pergunta que me fizeram em privado. É uma pergunta que adotarei.
 
