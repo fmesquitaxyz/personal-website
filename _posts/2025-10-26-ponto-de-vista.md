@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Ponto de vista"
-date: 2025-10-26
-draft: true
-show_draft: true
+date: 2025-10-30
+ao: true
 colorlinks: blue
 ---
 
-Há algumas semanas, conheci o namorado de uma amiga num jantar. Depois de termos passado bastante tempo a falar de política, perguntou-me: "O que te levou a ter esses pontos de vista?". É o tipo de pergunta que nos tem feito muita falta.
+Há algumas semanas, conheci o namorado de uma amiga num jantar. Depois de termos passado bastante tempo a falar de política, perguntou-me: "O que te levou a ter esse ponto de vista?". É o tipo de pergunta que nos tem feito muita falta.
 
 Cresci confortavelmente, numa família ligada ao PSD, sem a necessidade de pensar em política antes da universidade. Não me faltava nada e não estava atento ao que faltava aos outros. Preocupavam-me apenas as alterações climáticas.
 
@@ -27,4 +26,4 @@ Depois de um ano e 28 textos nestas páginas, fica aqui a resposta pública à p
 
 Estas desigualdades absurdas subsistem por opção, por conivência. Chega. Façamo-nos ouvir.
 
-_PS_: Por motivos profissionais e de desgaste, este será o meu último texto em 2025. Abraço e até breve!
+_PS_: Por motivos profissionais, estarei algumas semanas sem escrever. Abraço e até breve!
