@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "O que nos une"
-date: 2025-12-23
-draft: true
-show_draft: true
+date: 2025-12-25
+ao: true
 colorlinks: blue
 ---
 
