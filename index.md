@@ -77,7 +77,7 @@ I complain a lot. That does not mean i do not appreciate how extraordinarily luc
 
 Feel free to drop me an email at f at mesquita dot xyz.
 
-## Have a great fucking day, _foda-se_
+## Have a great fucking day, _foda-se_!
 
 \- f.
 
