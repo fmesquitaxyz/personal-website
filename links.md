@@ -32,6 +32,7 @@ permalink: /links
 
 ## Journalism
 
+* [Jacobin](https://jacobin.com)
 * [ICIJ [EN]](https://icij.org)
 * [Fumaça [PT]](https://fumaca.pt/)
 * [Esquerda.net [PT]](https://www.esquerda.net/)
@@ -39,7 +40,3 @@ permalink: /links
 * [The Intercept [EN]](https://theintercept.com/)
 * [Distributed Denial of Secrets [EN]](https://ddosecrets.com/)
 * [EIC [EN]](https://eic.network/)
-
-## Cheers
-
-[Learn everything you can: knowledge is subversive and the primary tool to protect ourselves and keep alive the possibility of a peaceful future.](https://www.esquerda.net/artigo/francesca-albanese-o-ultimo-ano-mudou-completamente-minha-forma-de-olhar-para-o-mundo/92452)

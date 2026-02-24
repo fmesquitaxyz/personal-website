@@ -5,9 +5,11 @@ layout: default
 
 ## Palestine
 
-[This investigation by Al Jazeera](https://www.aljazeera.com/program/investigations/2024/10/7/war-crimes-in-gaza-i-al-jazeera-investigations) of what is going on in Gaza is a extremely hard to watch and extraordinarily important. Please watch it only when you feel like you can handle it.
+What is happening in Palestine has fundamentally changed the way I see the world. I share below some of the resources I found most important. As Francesca Albanese put it, ["knowledge is subversive and the primary tool to protect ourselves and keep alive the possibility of a peaceful future."](https://www.esquerda.net/artigo/francesca-albanese-o-ultimo-ano-mudou-completamente-minha-forma-de-olhar-para-o-mundo/92452)
 
-In the three episodes of [Along the Green Line](https://www.youtube.com/playlist?list=PLa_1MA_DEorGnakB7QV1Q_LBpHgtGQDxi), Matthew Cassel (The Guardian) travels along the 1949 Armistice border, or ‘Green Line’ and meets Palestinians and Israelis living just kilometres apart.
+[This investigation by Al Jazeera](https://www.aljazeera.com/program/investigations/2024/10/7/war-crimes-in-gaza-i-al-jazeera-investigations) of what is going on in Gaza is extremely hard to watch _and_ extraordinarily important. Please watch it only when you feel like you can handle it.
+
+In the three episodes of [Along the Green Line](https://www.youtube.com/playlist?list=PLa_1MA_DEorGnakB7QV1Q_LBpHgtGQDxi), Matthew Cassel (The Guardian) travels along the 1949 Armistice border, or ‘Green Line’, and meets Palestinians and Israelis living just kilometres apart.
 
 ## Latest from [Blog](/blog)
 
@@ -29,7 +31,7 @@ In the three episodes of [Along the Green Line](https://www.youtube.com/playlist
 
 {% endfor %}
 
-## Politics and Economics
+## Politics, Economics and the Media
 
 I am deeply concerned about the insane levels of _inequality_ we have today.
 
@@ -45,56 +47,41 @@ I would much like to see rich countries lowering the taxes for those that earn/h
 
 Governments must not shy away from bold investments in education, healthcare and in the green transition.
 
-However, they must not spend hard-earned resources in luxury projects such as professional sports and marinas or subsidizing consumerism.
+However, they must not spend hard-earned resources in luxury projects or subsidizing consumerism.
 
 I have gathered [here](https://mesquita.xyz/links) some ((exclusively) external) content on economics and politics. I'm aware french economists are very much over-represented. While i really appreciate their work, i'll try and expand this list with additional interesting material coming from other parts of the globe. Please do share with me other bodies of work you recommend!
 
 I am a member of [Bloco de Esquerda](https://www.bloco.org/). Whatever[^1] your political inclinations, I urge you to join a political party — there's __plenty__ to do and not enough people take up their civic duty, in my opinion.
 
-## Effective Altruism
+I believe quality journalism is worth paying for. I currently subscribe to [Fumaça](https://fumaca.pt) (PT), The Guardian and hold a lifetime subscription to [Jacobin](https://jacobin.com/).
 
-I try to do my altruism [efficiently](https://duckduckgo.com/?q=peter+singer+effective+youtube&t=newext&atb=v330-3&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDiuv3XZQXyc). I don't see giving money away as the solution for many of today's pressing problems, but relatively rich people in rich countries can effectively help out people in poor countries. My contribution won't solve world hunger, but i'm sure each of us is capable of ending someone's hunger — actually, multiple people's — and that can only be worthwhile.
 
-I would urge you to consider giving away the monies you can spare.
+## My view on charity
 
-As for me, i'm a member of [giving what we can](https://www.givingwhatwecan.org/), meaning i donate 10% of the money i earn to [highly effective](https://www.thelifeyoucansave.org/giving-effectively/) charities.
+While I don't see charity as the principal tool for a better tomorrow, [relatively rich people in rich countries can effectively help out people in poor countries](https://duckduckgo.com/?q=peter+singer+effective+youtube&t=newext&atb=v330-3&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDiuv3XZQXyc). My contribution won't solve world hunger, but i'm sure each of us is capable of ending someone's hunger — actually, multiple people's — and that can only be worthwhile.
 
-I regularly support [Give Directly](https://www.givedirectly.org/):
+Since 2020, I have been donating 10% of the money i earn. I currently support [Give Directly](https://www.givedirectly.org/) (see [its finances](https://www.givedirectly.org/financials/); [and a study on unconditional cash transfers](https://haushofer.ne.su.se/publications/Haushofer_Shapiro_UCT_QJE_2016.pdf)), the [World Central Kitchen](https://wck.org/) (present in [Gaza](https://wck.org/relief/chefs-for-gaza/)) and [Doctors Without Borders](https://www.doctorswithoutborders.org) (also in [Gaza](https://www.doctorswithoutborders.org/latest/our-response-israel-gaza-war)).
 
-* (i'm an ambassador for GD. This simply means i should be able to answer questions you may have about it.)
-* ([GD's finances](https://www.givedirectly.org/financials/); [Quarterly Journal of Economics, 2016](https://haushofer.ne.su.se/publications/Haushofer_Shapiro_UCT_QJE_2016.pdf))
-
-These are other great charities that i've supported on occasion:
-
-* [Against Malaria Foundation](https://www.againstmalaria.com/)
-* [Helen Keller International](https://www.hki.org/)
-* [Evidence Action](https://www.evidenceaction.org/dewormtheworld/)
-* [New Incentives](https://www.newincentives.org/)
+I would urge you to please consider giving away the money you can spare.
 
 ## Internet Usage
 
-I consider the internet to be absolutely amazing.
-I try to use open source software and to be mindful of the data my online activities generate. There are HUGE tracking networks out there ([google being present in 75% of the web](https://spreadprivacy.com/biggest-tracker-networks/)) that follow you around the web, regardless of whether or not you actually use Google or Facebook. This is easy to solve! Use [DuckDuckGo's privacy essentials](https://duckduckgo.com/app) or some other extension to the same effect. Be sure to install them on you phone and PC.
-
-WhatsApp is closed-source software with access to dozens of sensors on your phone (microphone, multiple cameras, GPS, movement sensors, et cetera) - essentially a black-box with near unlimited access, owned by Zuckerberg. I prefer not to turn my phone into such an intrusive and potentially dangerous device.
-What i wrote above applies to Instagram and many other applications. To make matters worse, these track, store and monetize every interaction of the user with the app - from the time you take to scroll to (potentially) where your eyes are looking at.
-Yes, these platforms do have some great content. But the content is platform-independent. All this amazing technology does not come coupled with predatory practices - some businesses just decide to make it look like an inevitability.
-I use [Signal](https://signal.org/) exclusively for messaging. It is open source (anyone can inspect the code and many have - there are no hidden procedures) and, frankly, an amazing app functionally equivalent to Whatsapp.
+The internet is amazing, and technology does not have to come coupled with predatory practices. I use [Signal](https://signal.org/) exclusively for messaging. It is a great open-source app functionally equivalent to Whatsapp.
 
 [“Once the technology is in place, there will always be the temptation to use it. And it is poor civic hygiene to install technologies that could someday facilitate a police state.”](https://www.schneier.com/essays/archives/2013/07/mission_creep_when_e.html)
 
-## About
+## Bio
 
-I was born and raised in the Azores, and now live happily in exile in Lisbon. I work as a software engineer.
+I was born and raised in the Azores, and have been living happily abroad (Leuven, Lisbon, New York and Paris).
 
 I complain a lot. That does not mean i do not appreciate how extraordinarily lucky i have been so far. I can only hope it keeps that way.
 
-Feel free to drop me an email at f at mesquita dot xyz. Or get creative: anything at mesquita dot xyz gets through to me.
+Feel free to drop me an email at f at mesquita dot xyz.
 
-## Have a great day
+## Have a great fucking day, _foda-se_!
 
 \- f.
 
-(last update: 2024.10.07)
+(last update: 2026.02.23)
 
 [^1]: well... _whatever_ might be too strong of a term.
