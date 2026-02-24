@@ -5,7 +5,7 @@ layout: default
 
 ## Palestine
 
-What is happening in Palestine has fundamentally changed the way I see the world. I share below some of the resources I found most important. As Francesca Albanese put it, ["knowledge is subversive and the primary tool to protect ourselves and keep alive the possibility of a peaceful future."](https://www.esquerda.net/artigo/francesca-albanese-o-ultimo-ano-mudou-completamente-minha-forma-de-olhar-para-o-mundo/92452)
+What is happening in Palestine has fundamentally changed the way I see the world. I share below some of the resources I found most important. As Francesca Albanese put it, ["knowledge is subversive and the primary tool to keep alive the possibility of a peaceful future."](https://www.esquerda.net/artigo/francesca-albanese-o-ultimo-ano-mudou-completamente-minha-forma-de-olhar-para-o-mundo/92452)
 
 [This investigation by Al Jazeera](https://www.aljazeera.com/program/investigations/2024/10/7/war-crimes-in-gaza-i-al-jazeera-investigations) of what is going on in Gaza is extremely hard to watch _and_ extraordinarily important. Please watch it only when you feel like you can handle it.
 
@@ -53,8 +53,7 @@ I have gathered [here](https://mesquita.xyz/links) some ((exclusively) external)
 
 I am a member of [Bloco de Esquerda](https://www.bloco.org/). Whatever[^1] your political inclinations, I urge you to join a political party — there's __plenty__ to do and not enough people take up their civic duty, in my opinion.
 
-I believe quality journalism is worth paying for. I currently subscribe to [Fumaça](https://fumaca.pt) (PT), The Guardian and hold a lifetime subscription to [Jacobin](https://jacobin.com/).
-
+I get most of my news from The Guardian (which i subscribe to) and hold a lifetime subscription to [Jacobin](https://jacobin.com/). I also support [Fumaça](https://fumaca.pt) (PT).
 
 ## My view on charity
 
@@ -78,7 +77,7 @@ I complain a lot. That does not mean i do not appreciate how extraordinarily luc
 
 Feel free to drop me an email at f at mesquita dot xyz.
 
-## Have a great fucking day, _foda-se_!
+## Have a great fucking day, _foda-se_
 
 \- f.
 
