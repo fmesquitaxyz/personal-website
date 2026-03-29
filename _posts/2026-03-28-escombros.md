@@ -7,7 +7,7 @@ draft: true
 colorlinks: blue
 ---
 
-Todas as sextas-feiras, o *Guardian* publica [«A semana à volta do mundo em 20 fotografias»](https://www.theguardian.com/artanddesign/gallery/2026/mar/27/the-week-around-the-world-in-20-pictures?CMP=share_btn_url) — uma rúbrica que resume o mundo em imagens. Esta semana, as imagens oscilam entre memória e festa: o 50.º aniversário do [golpe militar na Argentina](https://en.wikipedia.org/wiki/1976_Argentine_coup_d%27%C3%A9tat) e o [massacre de Sharpeville](https://en.wikipedia.org/wiki/Sharpeville_massacre), mas também o Eid — a celebração muçulmana que marca o fim do Ramadão —, as cerejeiras em flor em Tóquio, um espectáculo de drones em Seul. Seria reconfortante se se ficasse por aqui. Mas o bom jornalismo inquieta.
+Todas as sextas-feiras, o *Guardian* publica [«A semana à volta do mundo em 20 fotografias»](https://www.theguardian.com/artanddesign/gallery/2026/mar/27/the-week-around-the-world-in-20-pictures?CMP=share_btn_url) — uma rúbrica que resume o mundo em imagens. Esta semana, as imagens oscilam entre memória e festa: o 50.º aniversário do [golpe militar na Argentina](https://en.wikipedia.org/wiki/1976_Argentine_coup_d%27%C3%A9tat) e o [massacre de Sharpeville](https://en.wikipedia.org/wiki/Sharpeville_massacre), mas também o Eid — a celebração muçulmana que marca o fim do Ramadão —, as cerejeiras em flor em Tóquio, um espectáculo de drones em Seul. Seria reconfortante se ficássemos por aqui. Mas o bom jornalismo inquieta.
 
 As edições das últimas semanas têm sido marcadas por uma violência desumana, com imagens que chegam do Sudão e do Sudão do Sul, da Ucrânia, do Irão, do Líbano e da Palestina.
 
