@@ -14,7 +14,7 @@ Há duas semanas, uma fotografia mostrava um menino de oito anos, Mustafa Bani O
 
 Este assassínio está longe de ser um caso isolado. Segundo dados da ONU, as forças israelitas mataram mais de 1.400 palestinianos na Cisjordânia desde 2019, incluindo mais de 320 crianças. Nesse período, nenhum soldado foi acusado de homicídio. Nem um único.
 
-E se antes a lei era ignorada, agora é a própria lei que codifica a barbárie: o parlamento israelita acaba de [aprovar a pena de morte para palestinianos](https://www.theguardian.com/world/2026/mar/30/israel-passes-law-death-penalty-palestinian-convicted-terrorists) — em tribunais militares, sem unanimidade, com execução em 90 dias. A última execução em Israel foi a do nazi Adolf Eichmann, em 1962. Agora, a forca é para os palestinianos. Não é um Estado de direito — é *apartheid*, ocupação e selvajaria.
+E se antes a lei era ignorada, agora é a própria lei que codifica a barbárie: o parlamento israelita acaba de [aprovar a pena de morte para palestinianos](https://www.theguardian.com/world/2026/mar/30/israel-passes-law-death-penalty-palestinian-convicted-terrorists) — em tribunais militares, sem unanimidade, com execução em 90 dias. A última execução em Israel foi a do nazi Adolf Eichmann, em 1962. Agora, a forca é para os palestinianos. Israel é *apartheid*, ocupação e selvajaria. É o pior do Ocidente — e estamos todos implicados.
 
 Em Gaza, a escala é outra: mais de 75 mil mortos nos primeiros quinze meses deste genocídio, segundo um [estudo da *Lancet*](https://www.theguardian.com/world/2026/feb/19/gaza-death-toll-higher-than-reported-lancet-study). E a matança continua.
 
