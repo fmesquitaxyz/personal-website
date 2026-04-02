@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "A mesa posta"
-date: 2026-04-01
-show_draft: true
-draft: true
+date: 2026-04-02
+ao: true
 colorlinks: blue
 ---
 Todas as sextas-feiras, o *Guardian* publica «A semana à volta do mundo em 20 fotografias» — uma rúbrica que nos mostra o mundo como é. As imagens da [última edição](https://www.theguardian.com/artanddesign/gallery/2026/mar/27/the-week-around-the-world-in-20-pictures) incluem a celebração do Eid (a festa muçulmana que marca o fim do Ramadão) em Dacar, as cerejeiras em flor em Tóquio, um espectáculo de drones em Seul e os aniversários do [golpe militar na Argentina (1976)](https://en.wikipedia.org/wiki/1976_Argentine_coup_d%27%C3%A9tat) e do [massacre de Sharpeville (1960)](https://en.wikipedia.org/wiki/Sharpeville_massacre) na África do Sul.
