@@ -2,9 +2,9 @@
 layout: post
 title: "Em paz sujeitíssimos"
 date: 2026-04-16
-draft: true
-show_draft: true
-# ao: true
+# draft: true
+# show_draft: true
+ao: true
 colorlinks: blue
 ---
 
@@ -18,7 +18,7 @@ Falta ainda somar a dívida da Azores Airlines — que nos chegará aos bolsos. 
 
 Mais adiante, Bolieiro defendeu que a utilização da base pelos EUA para atacar o Irão reforça a nossa importância, pedindo a revisão do acordo bilateral "com sentido de oportunidade", de modo a "retirar dele um justo benefício". Apelidou os estadunidenses de "aliados e amigos" e considerou que "o mundo está cada vez mais perigoso fruto [...] do comportamento do próprio Irão" ([minuto 28](https://youtu.be/n3Kd42QUkU4?si=2a8dYH2icgdwzUJz&t=1533)). Confrontado com a possibilidade de nos tornarmos alvo, respondeu que ia "reservar-se a considerações para não criar alarme social".
 
-Dias depois, no passado sábado, foi a vez do eurodeputado Paulo Nascimento Cabral [escrever aqui no *Açoriano Oriental*](https://www.acorianooriental.pt/artigo/somos-ou-nao-relevantes-33712) que partilha «da posição do Presidente do Governo dos Açores": «quanto mais a base for utilizada, mais se reforça a nossa importância" — e que quem critica esta posição está «a diminuir os Açores".
+Dias depois, no passado sábado, foi a vez do eurodeputado Paulo Nascimento Cabral [escrever aqui no *Açoriano Oriental*](https://www.acorianooriental.pt/artigo/somos-ou-nao-relevantes-33712) que partilha "da posição do Presidente do Governo dos Açores": "quanto mais a base for utilizada, mais se reforça a nossa importância" — e que quem critica esta posição está "a diminuir os Açores".
 
 Bolieiro e Cabral devem lembrar-se da cimeira das Lajes de 2003, em que Bush, Blair, Aznar e Barroso posaram para a fotografia que antecedeu a invasão do Iraque. Espanha, que pagou a fotografia com [193 mortos em Madrid](https://en.wikipedia.org/wiki/2004_Madrid_train_bombings), aprendeu: Sánchez proibiu a utilização das bases espanholas para atacar o Irão. Mas há quem não aprenda — e vinte e três anos depois, perfila-se o PSD para ocupar o lugar de Barroso na fotografia seguinte, ao lado de Trump e Netanyahu.
 
